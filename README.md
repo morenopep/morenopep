@@ -3,6 +3,8 @@
 <!--
 **morenopep/morenopep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### 🔗 My links and Contact:
+<a href="https://wa.link/380opf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact me on WhatsApp"></a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
