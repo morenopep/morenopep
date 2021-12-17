@@ -2,7 +2,7 @@
 
 - 💻 Profissional de Rede Logica no Instituto de Logistica da Aeronaltica 
 - 🚀 Bootcamp Generation Brasil - Desenvolvedor Web Full Stack 
-- :policeman: S1 SGS Estevão 
+- :policeman: CB SGS Estevão 
 
 ### :computer: Skills: 🚀
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
